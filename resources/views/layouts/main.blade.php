@@ -9,6 +9,6 @@
     @vite('resources/js/app.js')
 </head>
 <body>
-    
+    @yield('main-content')
 </body>
 </html>
